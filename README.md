@@ -20,7 +20,7 @@ training 2,000 timesteps:
 
 training 4,000 timesteps:
 
-![](https://github.com/wesley989898/BipedalWalkerHardcore-v2/blob/master/4000_timesteps.mp4)
+![](https://github.com/wesley989898/BipedalWalkerHardcore-v2/blob/master/4000_timesteps.gif)
 
 training 10,000 timesteps:
 
