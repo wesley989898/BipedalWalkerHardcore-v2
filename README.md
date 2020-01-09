@@ -11,7 +11,7 @@ You have to get the reward 300 in 2000 training timesteps, you will get reward -
 ## Environment
 Training on the Google Colab. 
 
-If you want to train in jupyter notebook, although you run ```!pip install gym[all]``` or ```!pip install Box2D```, it may have possible to get the error like "No module named ‘Box2D’". Then you can follow the direction for install PyBox2D.whl 
+If you want to train in local with using anaconda jupyter notebook, although you run ```!pip install gym[all]``` or ```!pip install Box2D```, may have possible to get the error like "No module named ‘Box2D’". Then you can follow the direction for install PyBox2D.whl 
 (Python Extension Packages for Windows) in https://ithelp.ithome.com.tw/articles/10229349.
 
 ---
