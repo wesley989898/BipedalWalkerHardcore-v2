@@ -24,7 +24,9 @@ If you want to train in local with using anaconda jupyter notebook, although you
 
 ![](https://github.com/wesley989898/BipedalWalkerHardcore-v2/blob/master/4000_timesteps.gif)
 
-#### training 10,000 timesteps:
+#### training 6,000 timesteps:
+
+![](https://github.com/wesley989898/BipedalWalkerHardcore-v2/blob/master/6000_timesteps.gif)
 
 ## timesteps
 You can change timesteps in ```agent.train_population(2000)```. (ex:2000 to 4000)
