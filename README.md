@@ -24,3 +24,7 @@ training 4,000 timesteps:
 
 training 10,000 timesteps:
 
+## timesteps
+You can change timesteps in ```agent.train_population(2000)```. (ex:2000 to 4000)
+
+But if you want to paticipate the GYM contest, it only allow training below 2000 to finish the job.
