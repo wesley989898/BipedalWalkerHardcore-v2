@@ -18,6 +18,8 @@ If you want to train in local with using anaconda jupyter notebook, although you
 
 training 2,000 timesteps:
 
+![](https://github.com/wesley989898/BipedalWalkerHardcore-v2/blob/master/2000_timesteps.gif)
+
 training 4,000 timesteps:
 
 ![](https://github.com/wesley989898/BipedalWalkerHardcore-v2/blob/master/4000_timesteps.gif)
